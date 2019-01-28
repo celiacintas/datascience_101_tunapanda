@@ -1,6 +1,6 @@
 # datascience_101_tunapanda
 
-## Class 1:  
+## Class 1: (Sat 26th Jan)
 
 - [x] Why learn Python for data analysis?     
 - [x] How to install Python?
@@ -14,7 +14,7 @@ Exercises:
 - Create first ipython notebook.
 
 
-## Class 2:
+## Class 2: (Sat 2nd Feb)
 - [ ] Introduction to Pandas.
 - [ ] Introduction to series and dataframes. Operations.
 - [ ] Reading and writing data with pandas.
@@ -26,7 +26,7 @@ Exercises:
 - Remove incomplete values.
 - Save data to SQL database.
 
-## Class 3:
+## Class 3: (Sat 23rd Feb)
 - [ ] Introduction to Visualization.
 - [ ] Libraries.
 - [ ] Different types of plots (line, scatter, bar, histograms).
@@ -38,7 +38,7 @@ Exercises:
 - Count values with different targets and visualize it.
 - Save a png figure.
 
-## Class 4:
+## Class 4: (Sat 9th March)
 - [ ] Introduction to Scikit-learn.
 - [ ] Normalization of data.
 - [ ] Dimension reduction methods.
@@ -52,9 +52,9 @@ Exercises:
 - Save model to pickle.
 
 
-## Class 5:
+## Class 5: (Sat 23th March)
 - [ ] Interesting resources, projects and other libraries.
 - [ ] Deep learning techniques and libraries.
 
-## Class 6:
+## Class 6: (Sat 6th April)
 - We will work in two groups, choose dataset and apply full pipeline (from data loading to creating the model and visualize it) and present to the class!
