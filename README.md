@@ -15,11 +15,11 @@ Exercises:
 
 
 ## Class 2: (Sat 2nd Feb)
-- [ ] Introduction to Numpy & Pandas.
-- [ ] Numpy arrays and operations. 
-- [ ] Introduction to series and dataframes. Operations.
-- [ ] Reading and writing data with pandas.
-- [ ] Working with incomplete data.
+- [X] Introduction to Numpy & Pandas.
+- [X] Numpy arrays and operations. 
+- [X] Introduction to series and dataframes. Operations.
+- [X] Reading and writing data with pandas.
+- [X] Working with incomplete data.
 - [ ] SQL dbs and pandas.
 
 Exercises:
