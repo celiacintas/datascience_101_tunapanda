@@ -14,21 +14,22 @@ Exercises:
 - Create first ipython notebook.
 
 
-## Class 2: (Sat 2nd Feb)
+## Class 2: (Sat 2nd Feb, Sat 23rd Feb)
 - [X] Introduction to Numpy & Pandas.
 - [X] Numpy arrays and operations. 
 - [X] Introduction to series and dataframes. Operations.
 - [X] Reading and writing data with pandas.
 - [X] Working with incomplete data.
-- [ ] Merge/Join/Concat
-- [ ] SQL dbs and pandas.
+- [X] Merge/Join/Concat.
+- [X] SQL dbs and pandas.
+>>>>>>> c00c81247fefa3bf86b41a755df5c057c7043604
 
 Exercises:
 - Open csv file with pandas.
 - Remove incomplete values.
 - Save data to SQL database.
 
-## Class 3: (Sat 23rd Feb)
+## Class 3: (Sat 2nd March)
 - [ ] Introduction to Visualization.
 - [ ] Libraries.
 - [ ] Different types of plots (line, scatter, bar, histograms).
@@ -40,7 +41,7 @@ Exercises:
 - Count values with different targets and visualize it.
 - Save a png figure.
 
-## Class 4: (Sat 9th March)
+## Class 4: (Sat 16th March)
 - [ ] Introduction to Scikit-learn.
 - [ ] Normalization of data.
 - [ ] Dimension reduction methods.
