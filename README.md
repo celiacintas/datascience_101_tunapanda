@@ -20,6 +20,7 @@ Exercises:
 - [X] Introduction to series and dataframes. Operations.
 - [X] Reading and writing data with pandas.
 - [X] Working with incomplete data.
+- [ ] Merge/Join/Concat
 - [ ] SQL dbs and pandas.
 
 Exercises:
