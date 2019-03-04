@@ -22,17 +22,16 @@ Exercises:
 - [X] Working with incomplete data.
 - [X] Merge/Join/Concat.
 - [X] SQL dbs and pandas.
->>>>>>> c00c81247fefa3bf86b41a755df5c057c7043604
 
 Exercises:
 - Open csv file with pandas.
 - Remove incomplete values.
 - Save data to SQL database.
 
-## Class 3: (Sat 2nd March)
-- [ ] Introduction to Visualization.
-- [ ] Libraries.
-- [ ] Different types of plots (line, scatter, bar, histograms).
+## Class 3: (Sat 9nd March)
+- [X] Introduction to Visualization.
+- [X] Libraries.
+- [X] Different types of plots (line, scatter, bar, histograms).
 - [ ] Interactive plots.
 - [ ] Save figures.
 
@@ -41,7 +40,7 @@ Exercises:
 - Count values with different targets and visualize it.
 - Save a png figure.
 
-## Class 4: (Sat 16th March)
+## Class 4: (Sat 23th March)
 - [ ] Introduction to Scikit-learn.
 - [ ] Normalization of data.
 - [ ] Dimension reduction methods.
@@ -55,7 +54,7 @@ Exercises:
 - Save model to pickle.
 
 
-## Class 5: (Sat 23th March)
+## Class 5: (Sat 30th March)
 - [ ] Interesting resources, projects and other libraries.
 - [ ] Deep learning techniques and libraries.
 
