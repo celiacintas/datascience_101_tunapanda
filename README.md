@@ -14,7 +14,7 @@ Exercises:
 - Create first ipython notebook.
 
 
-## Class 2: (Sat 2nd Feb, Sat 23rd Feb)
+## Class 2: (Sat 2nd Feb, Sat 23rd Feb, Sat 9nd March)
 - [X] Introduction to Numpy & Pandas.
 - [X] Numpy arrays and operations. 
 - [X] Introduction to series and dataframes. Operations.
@@ -28,11 +28,11 @@ Exercises:
 - Remove incomplete values.
 - Save data to SQL database.
 
-## Class 3: (Sat 9nd March)
+## Class 3: (Sat 30th March)
 - [X] Introduction to Visualization.
 - [X] Libraries.
 - [X] Different types of plots (line, scatter, bar, histograms).
-- [ ] Interactive plots.
+- [ ] Interactive plots libraries.
 - [ ] Save figures.
 
 Exercises:
@@ -40,7 +40,7 @@ Exercises:
 - Count values with different targets and visualize it.
 - Save a png figure.
 
-## Class 4: (Sat 23th March)
+## Class 4: (Sat 30th March)
 - [ ] Introduction to Scikit-learn.
 - [ ] Normalization of data.
 - [ ] Dimension reduction methods.
@@ -54,9 +54,9 @@ Exercises:
 - Save model to pickle.
 
 
-## Class 5: (Sat 30th March)
+## Class 5: (Sat 6th April)
 - [ ] Interesting resources, projects and other libraries.
 - [ ] Deep learning techniques and libraries.
 
-## Class 6: (Sat 6th April)
+## Class 6: (Sat 27th April)
 - We will work in two groups, choose dataset and apply full pipeline (from data loading to creating the model and visualize it) and present to the class!
