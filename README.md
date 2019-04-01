@@ -32,8 +32,8 @@ Exercises:
 - [X] Introduction to Visualization.
 - [X] Libraries.
 - [X] Different types of plots (line, scatter, bar, histograms).
-- [ ] Interactive plots libraries.
-- [ ] Save figures.
+- [X] Interactive plots libraries.
+- [X] Save figures.
 
 Exercises:
 - Load data with pandas. Choose two values and plot them.
@@ -41,8 +41,8 @@ Exercises:
 - Save a png figure.
 
 ## Class 4: (Sat 30th March)
-- [ ] Introduction to Scikit-learn.
-- [ ] Normalization of data.
+- [X] Introduction to Scikit-learn.
+- [X] Estandarization and Normalization of data.
 - [ ] Dimension reduction methods.
 - [ ] What is a predictive model? How can we measure the performance?
 - [ ] Create, train and evaluate SVM and Random Forest.
