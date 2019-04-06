@@ -40,7 +40,7 @@ Exercises:
 - Count values with different targets and visualize it.
 - Save a png figure.
 
-## Class 6: (Sat 30th March)
+## Class 6, Class 7: (Sat 30th March, Sat 6th April)
 - [X] Introduction to Scikit-learn.
 - [X] Estandarization and Normalization of data.
 - [X] Dimension reduction methods.
@@ -53,10 +53,7 @@ Exercises:
 - Show metrics of the model.
 - Save model to pickle.
 
-
-## Class 7: (Sat 6th April)
+## Class 8: (Sat 27th April)
 - [ ] Interesting resources, projects and other libraries.
 - [ ] Deep learning techniques and libraries.
-
-## Class 8: (Sat 27th April)
-- We will work in two groups, choose dataset and apply full pipeline (from data loading to creating the model and visualize it) and present to the class!
+- We will work in groups, choose dataset and apply full pipeline (from data loading to creating the model and visualize it) and present to the class!
