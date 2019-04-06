@@ -43,9 +43,9 @@ Exercises:
 ## Class 4: (Sat 30th March)
 - [X] Introduction to Scikit-learn.
 - [X] Estandarization and Normalization of data.
-- [ ] Dimension reduction methods.
-- [ ] What is a predictive model? How can we measure the performance?
-- [ ] Create, train and evaluate SVM and Random Forest.
+- [X] Dimension reduction methods.
+- [X] What is a predictive model? How can we measure the performance?
+- [X] Create, train and evaluate SVM.
 
  Exercises:
 - Load dataset and Scale values between [0, 1].
