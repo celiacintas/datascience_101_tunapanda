@@ -54,6 +54,6 @@ Exercises:
 - Save model to pickle.
 
 ## Class 8: (Sat 27th April)
-- [ ] Interesting resources, projects and other libraries.
-- [ ] Deep learning techniques and libraries.
-- We will work in groups, choose dataset and apply full pipeline (from data loading to creating the model and visualize it) and present to the class!
+- [X] Interesting resources, projects and other libraries.
+- [X] Deep learning techniques and libraries.
+- [X] Simple pipeline overview with Fashion MNIST (from data loading to creating the model and visualize it)
